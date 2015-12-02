@@ -17,3 +17,5 @@ Slap Chat
 # Extra Credit
 
   1. Add a button that resorts the messages in the array so descending by the createdAt property.
+
+<a href='https://learn.co/lessons/objc-SlapChat' data-visibility='hidden'>View this lesson on Learn.co</a>
