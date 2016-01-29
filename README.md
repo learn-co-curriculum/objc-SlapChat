@@ -18,4 +18,6 @@ Slap Chat
 
   1. Add a button that resorts the messages in the array so descending by the createdAt property.
 
-<a href='https://learn.co/lessons/objc-SlapChat' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-SlapChat' title='DEPRECATED Oct 21, 2015 - Mark Murray
+The contents of the lab have been combined with SlapChat Add. The "space" between the labs was deemed too incremental to publish both. This repository is no longer active.'>DEPRECATED Oct 21, 2015 - Mark Murray
+The contents of the lab have been combined with SlapChat Add. The "space" between the labs was deemed too incremental to publish both. This repository is no longer active.</a> on Learn.co and start learning to code for free.</p>
